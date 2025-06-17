@@ -1,0 +1,14 @@
+name: flutter_user_list
+description: A Flutter app to list users from a web service
+publish_to: 'none'
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^0.13.6
+
+flutter:
+  uses-material-design: true
